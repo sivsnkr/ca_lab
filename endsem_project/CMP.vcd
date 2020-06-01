@@ -1,0 +1,33 @@
+$date
+	Mon Jun  1 19:03:40 2020
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1s
+$end
+$scope module top $end
+$var wire 16 ! out [15:0] $end
+$var reg 16 " a [15:0] $end
+$var reg 16 # b [15:0] $end
+$var reg 3 $ select [2:0] $end
+$scope module main_0 $end
+$var wire 16 % a [15:0] $end
+$var wire 16 & b [15:0] $end
+$var wire 3 ' select [2:0] $end
+$var wire 16 ( out [15:0] $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+b1111111111101011 (
+b100 '
+b10100 &
+b10100 %
+b100 $
+b10100 #
+b10100 "
+b1111111111101011 !
+$end
