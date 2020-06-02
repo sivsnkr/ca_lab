@@ -1,4 +1,4 @@
-`include "../Logical/Main.v"
+`include "../logical/Main.v"
 
 module top;
 

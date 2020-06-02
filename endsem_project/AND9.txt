@@ -1,2 +1,0 @@
-VCD info: dumpfile CMP.vcd opened for output.
-Time =  0, a =    20, b =    20, output = 65515
